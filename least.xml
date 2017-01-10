@@ -15,4 +15,5 @@
 <intercept-url pattern="/**" access="permitAll" />
 </http>
 
+
 </beans:beans>
